@@ -12,6 +12,11 @@
     background-color: rgb(33, 15, 145);
 }
 
+a {
+    color: #000!important; 
+    text-decoration: none;
+}
+
 .navbar-default .navbar-nav > .active > a {
     color: white!important;
     background-color: rgb(67, 33, 145);
